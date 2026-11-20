@@ -1,0 +1,16 @@
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# сервер
+server.py
+
+# txt приколы
+anketa.txt
+ok.txt
+errors.txt
+
+# json приколы
+otchet.json
